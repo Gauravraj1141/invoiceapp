@@ -13,8 +13,9 @@
   pip freeze -r requirements.txt
 
 # Running the Server
+- to start server on port
   ```bash
-  python manage.py runserver 0:8001 (to start server on port)
+  python manage.py runserver 0:8001 
 
  # Testing with Postman
 
